@@ -1,6 +1,6 @@
 # Codeforces 
 >My codes for Codeforces
-[repo img](assets/codeforces.jpeg)
+![repo img](assets/codeforces.jpeg)
 ## Description
 Trying to do some Codeforces now and then
 ## Author Information
